@@ -30,7 +30,7 @@
 
 
 
-# Section 1 - In the beginning - how did we got here?
+# Section 1 - In the beginning - how did we get here?
 
 ## Outline
 
@@ -109,7 +109,9 @@
 
 5.     Final Table/Framework visual tying all 3 intents together back to the chapters purpose
 
-
+---
+---
+---
 
 
 
@@ -192,6 +194,9 @@
 
 5.     Final Table/Framework visual tying all 3 intents together back to the chapters purpose
 
+---
+---
+---
 
 # Section 3 - So what - what's next?
 
