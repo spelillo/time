@@ -276,3 +276,9 @@
       finish the chapter by tying the body content back to the key message and solution.
 
 5.     Final Table/Framework visual tying all 3 intents together back to the chapters purpose
+
+
+---
+---
+
+## Conclusion & Acknowledgements
