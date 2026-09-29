@@ -30,7 +30,7 @@
 
 
 
-# Section 1 - In the beginning
+# Section 1 - In the beginning - how did we got here?
 
 ## Outline
 
@@ -87,6 +87,169 @@
       finish the chapter by tying the body content back to the key message and solution.
 
 ### Chapter 1.d - intention 3
+4. Intention 3.
+   - **Context**
+      reiterate the context of this intention
+   - **Intent**
+      mention why its being studied
+   - **Key message**
+      connect to overall chapter purpose
+
+   - **Goal**
+      what is the goal for the reader in reading about this intention
+   - **Problem**
+      for this intention, what are underlying issues that we choose to evaluate, what has happened, who is to blame?
+   - **Solution**
+      for this intention, propose a solution(s), inspire the reader to connect this intention to their lives 
+
+   - **Body Content**
+      after establishing the CIK - GPS for this chapter, dive into the content for this intention
+   - **Conclusion**
+      finish the chapter by tying the body content back to the key message and solution.
+
+5.     Final Table/Framework visual tying all 3 intents together back to the chapters purpose
+
+
+
+
+
+# Section 2 - Ain't no time like the present - what is going on right now?
+
+## Outline
+
+### Chapter 2.a - Introductions
+
+1. Intro
+   - **Context**
+      introduce this chapter, what the context of it is
+   - **Intent**
+      briefly pornounce the 3 key intentions of this chapter
+   - **Key message**
+      bring together how all 3 intentions work together
+     
+### Chapter 2.b - intention 1
+2. Intention 1.
+   - **Context**
+      reiterate the context of this intention
+   - **Intent**
+      mention why its being studied
+   - **Key message**
+      connect to overall chapter purpose
+
+   - **Goal**
+      what is the goal for the reader in reading about this intention
+   - **Problem**
+      for this intention, what are underlying issues that we choose to evaluate, what has happened, who is to blame?
+   - **Solution**
+      for this intention, propose a solution(s), inspire the reader to connect this intention to their lives 
+
+   - **Body Content**
+      after establishing the CIK - GPS for this chapter, dive into the content for this intention
+   - **Conclusion**
+      finish the chapter by tying the body content back to the key message and solution.
+
+### Chapter 2.c - intention 2
+3. Intention 2.
+   - **Context**
+      reiterate the context of this intention
+   - **Intent**
+      mention why its being studied
+   - **Key message**
+      connect to overall chapter purpose
+
+   - **Goal**
+      what is the goal for the reader in reading about this intention
+   - **Problem**
+      for this intention, what are underlying issues that we choose to evaluate, what has happened, who is to blame?
+   - **Solution**
+      for this intention, propose a solution(s), inspire the reader to connect this intention to their lives 
+
+   - **Body Content**
+      after establishing the CIK - GPS for this chapter, dive into the content for this intention
+   - **Conclusion**
+      finish the chapter by tying the body content back to the key message and solution.
+
+### Chapter 2.d - intention 3
+4. Intention 3.
+   - **Context**
+      reiterate the context of this intention
+   - **Intent**
+      mention why its being studied
+   - **Key message**
+      connect to overall chapter purpose
+
+   - **Goal**
+      what is the goal for the reader in reading about this intention
+   - **Problem**
+      for this intention, what are underlying issues that we choose to evaluate, what has happened, who is to blame?
+   - **Solution**
+      for this intention, propose a solution(s), inspire the reader to connect this intention to their lives 
+
+   - **Body Content**
+      after establishing the CIK - GPS for this chapter, dive into the content for this intention
+   - **Conclusion**
+      finish the chapter by tying the body content back to the key message and solution.
+
+5.     Final Table/Framework visual tying all 3 intents together back to the chapters purpose
+
+
+# Section 3 - So what - what's next?
+
+## Outline
+
+### Chapter 3.a - Introductions
+
+1. Intro
+   - **Context**
+      introduce this chapter, what the context of it is
+   - **Intent**
+      briefly pornounce the 3 key intentions of this chapter
+   - **Key message**
+      bring together how all 3 intentions work together
+     
+### Chapter 3.b - intention 1
+2. Intention 1.
+   - **Context**
+      reiterate the context of this intention
+   - **Intent**
+      mention why its being studied
+   - **Key message**
+      connect to overall chapter purpose
+
+   - **Goal**
+      what is the goal for the reader in reading about this intention
+   - **Problem**
+      for this intention, what are underlying issues that we choose to evaluate, what has happened, who is to blame?
+   - **Solution**
+      for this intention, propose a solution(s), inspire the reader to connect this intention to their lives 
+
+   - **Body Content**
+      after establishing the CIK - GPS for this chapter, dive into the content for this intention
+   - **Conclusion**
+      finish the chapter by tying the body content back to the key message and solution.
+
+### Chapter 3.c - intention 2
+3. Intention 2.
+   - **Context**
+      reiterate the context of this intention
+   - **Intent**
+      mention why its being studied
+   - **Key message**
+      connect to overall chapter purpose
+
+   - **Goal**
+      what is the goal for the reader in reading about this intention
+   - **Problem**
+      for this intention, what are underlying issues that we choose to evaluate, what has happened, who is to blame?
+   - **Solution**
+      for this intention, propose a solution(s), inspire the reader to connect this intention to their lives 
+
+   - **Body Content**
+      after establishing the CIK - GPS for this chapter, dive into the content for this intention
+   - **Conclusion**
+      finish the chapter by tying the body content back to the key message and solution.
+
+### Chapter 3.d - intention 3
 4. Intention 3.
    - **Context**
       reiterate the context of this intention
